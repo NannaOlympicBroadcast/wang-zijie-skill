@@ -21,7 +21,7 @@
 ## 安装
 
 ```bash
-npx skills add [github-user]/wang-zijie-skill
+npx skills add NannaOlympicBroadcast/wang-zijie-skill
 ```
 
 在 Claude Code 中使用：
